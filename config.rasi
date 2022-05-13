@@ -1,6 +1,6 @@
 configuration {
     /* 配置显示类型 */
-/*	modi: "window,run,ssh,drun";*/
+/*	modi: "window,run,ssh,drun,combi";*/
 /*	width: 50;*/
 	lines: 6;
 	columns: 2;
@@ -175,4 +175,4 @@ configuration {
 /*	me-accept-entry: "MouseDPrimary";*/
 /*	me-accept-custom: "Control+MouseDPrimary";*/
 }
-@import "/usr/share/rofi/themes/solarized_alternate.rasi"
+@import "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"
