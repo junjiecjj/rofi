@@ -64,7 +64,7 @@ configuration {
     /*  theme:"paper-float"; */
     /*  theme:"Paper"; */
     /*  theme:"Pop-Dark"; */
-    /*  theme:"solarized_alternate"; */
+      theme:"solarized_alternate";
     /*  theme:"flamingo"; */
     /*  theme:"flat-orange"; */
     /*  theme:"material"; */
@@ -75,8 +75,15 @@ configuration {
     /*  theme:"sidetab"; */
     /*  theme:"cloud"; */
     /* theme:"sidebar"; */
-    theme:"/home/jack/.config/rofi/theme/purify";
-    /* theme:"/home/jack/.config/rofi/theme/awel";  */
+   /* theme:"/home/jack/.config/rofi/theme/purify"; */
+    /* theme:"/home/jack/.config/rofi/theme/awel";*/
+    /* theme:"/home/jack/.config/rofi/theme/awel";*/
+    /* theme:"/home/jack/.config/rofi/theme/awel";*/
+    /* theme:"/home/jack/.config/rofi/theme/awel";*/
+    /* theme:"/home/jack/.config/rofi/theme/awel";*/
+    /* theme:"/home/jack/.config/rofi/theme/awel";*/
+    /* theme:"/home/jack/.config/rofi/theme/awel";*/
+    /* theme:"/home/jack/.config/rofi/theme/awel";*/
     /*  theme:"oxide"; */
     /* theme:"glue_pro_blue"; */
     /* theme:"android_notification"; */
