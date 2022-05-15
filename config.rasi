@@ -56,45 +56,17 @@ configuration {
 /*	click-to-exit: true;*/
 /*	show-match: true;*/
 /* 主题在/usr/share/rofi/themes/ */
-    /*  theme:"fancy"; */
-    /*  theme:"DarkBlue"; */
-    /*  theme:"Indego"; */
-    /*  theme:"lb"; */
-    /*  theme:"Monokai"; */
-    /*  theme:"paper-float"; */
-    /*  theme:"Paper"; */
-    /*  theme:"Pop-Dark"; */
-      theme:"solarized_alternate";
-    /*  theme:"flamingo"; */
-    /*  theme:"flat-orange"; */
-    /*  theme:"material"; */
-    /*  theme:"onedark"; */
-    /*  theme:"rezlooks"; */
-    /*  theme:"ribbon"; */
-    /*  theme:"sidetab-adapta"; */
-    /*  theme:"sidetab"; */
-    /*  theme:"cloud"; */
-    /* theme:"sidebar"; */
-   /* theme:"/home/jack/.config/rofi/theme/purify"; */
-    /* theme:"/home/jack/.config/rofi/theme/awel";*/
-    /* theme:"/home/jack/.config/rofi/theme/awel";*/
-    /* theme:"/home/jack/.config/rofi/theme/awel";*/
-    /* theme:"/home/jack/.config/rofi/theme/awel";*/
-    /* theme:"/home/jack/.config/rofi/theme/awel";*/
-    /* theme:"/home/jack/.config/rofi/theme/awel";*/
-    /* theme:"/home/jack/.config/rofi/theme/awel";*/
-    /* theme:"/home/jack/.config/rofi/theme/awel";*/
-    /*  theme:"oxide"; */
-    /* theme:"glue_pro_blue"; */
-    /* theme:"android_notification"; */
-    /* theme:"Arc-Dark"; */
-    /* theme:"blue"; */
-    /* theme:"solarized"; */
-    /* theme:"arc-red-dark"; */
-    /* theme:"purple"; */
-    /* theme:"merah"; */
-    /* theme:"slate"; */
-    /* theme:"solarized-darker"; */
+    /* theme:Adapta-Nokto.rasi   android_notification.rasi   Arc-Dark.rasi   Arc.rasi   arthur.rasi  awel.rasi  blue.rasi  blue.rasi  colors-light.rasi
+    colors-nord.rasi  colors.rasi  DarkBlue.rasi  dmenu.rasi  fancy.rasi  glue_pro_blue.rasi  gruvbox-common.rasi  gruvbox-dark-hard.rasi  gruvbox-dark-soft.rasi
+    gruvbox-dark.rasi  ⠀gruvbox-light-hard.rasi  ⠀gruvbox-light-soft.rasi  gruvbox-light.rasi  Indego.rasi  lb.rasi  light.rasi  Monokai.rasi  networkmenu.rasi 
+    ⠀nord.rasi  paper-float.rasi  Paper.rasi  Pop-Dark.rasi  purify.rasi  purple.rasi  sidebar.rasi  solarized.rasi  solarized_alternate.rasi
+    ; */
+    theme:"/home/jack/.config/rofi/theme/sidebar.rasi";
+    theme:"/home/jack/.config/rofi/theme/gruvbox-light-hard.rasi";
+    theme:"/home/jack/.config/rofi/theme/gruvbox-dark-hard.rasi";
+    theme:"/home/jack/.config/rofi/theme/Paper.rasi";
+    theme:"/home/jack/.config/rofi/theme/Indego.rasi";
+    theme:"/home/jack/.config/rofi/theme/Pop-Dark.rasi";
 	color-normal: "#1c1c22, #d9d6ca, #85aab6, #d9d6ca, #78824B";
 	color-urgent: "#1c1c22, #d9d6ca, #85aab6, #d9d6ca, #78824B";
 	color-active: "#1c1c22, #d9d6ca, #85aab6, #d9d6ca, #78824B";
