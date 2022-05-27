@@ -72,6 +72,7 @@ configuration {
     theme:"/home/jack/.config/rofi/theme/colors-nord.rasi";
     theme:"/home/jack/.config/rofi/theme/gruvbox-light-soft.rasi";
     theme:"/home/jack/.config/rofi/theme/gruvbox-dark-soft.rasi";
+    theme:"/home/jack/.config/rofi/theme/colors_bsp.rasi";
     theme:"/home/jack/.config/rofi/theme/leftwm-flameingo.rasi";
 	color-normal: "#1c1c22, #d9d6ca, #85aab6, #d9d6ca, #78824B";
 	color-urgent: "#1c1c22, #d9d6ca, #85aab6, #d9d6ca, #78824B";
